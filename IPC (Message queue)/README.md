@@ -2,6 +2,14 @@
 
 ![Screenshot (204)](https://github.com/user-attachments/assets/423d7327-924f-4702-8779-90b47dfbdaeb)
 
+# Lab Manual (pdf)
+
+[expt1 msg queue manual.pdf](https://github.com/user-attachments/files/18915111/expt1.msg.queue.manual.pdf)
+
+# sloved code (pdf)
+
+[EXPERIMENT NO1 – MESSAGE QUEUE_240115_094231.pdf](https://github.com/user-attachments/files/18915129/EXPERIMENT.NO1.MESSAGE.QUEUE_240115_094231.pdf)
+
 # IPC (Message Queue) - Decimal Number Conversion
 
 This project demonstrates inter-process communication (IPC) using message queues. The goal of the project is to take a decimal number from the user, convert it to binary, octal, and hexadecimal bases, and send those values to a message queue. Three separate programs will read and display the binary, octal, and hexadecimal values from the message queue.
