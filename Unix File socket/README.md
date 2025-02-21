@@ -1,3 +1,8 @@
+# Outpot
+
+![WhatsApp Image 2025-02-22 at 00 13 06_8b0b2846](https://github.com/user-attachments/assets/d285657a-51ac-437f-97a4-539971a9e748)
+
+
 # Unix Domain Socket Client-Server Application
 
 This project demonstrates a simple client-server application using Unix Domain Sockets for inter-process communication (IPC). The client sends a list of integers to the server, which sorts them and sends the sorted integers back to the client.
