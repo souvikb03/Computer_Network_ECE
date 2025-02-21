@@ -35,6 +35,7 @@ gcc -o sender sender.c
 gcc -o receiver_binary receiver_binary.c
 gcc -o receiver_octal receiver_octal.c
 gcc -o receiver_hex receiver_hex.c
+
 Execution
 Step 1: Start the Sender Program
 In one terminal window, run the sender program:
@@ -79,17 +80,7 @@ The programs communicate using message queues (msgget, msgrcv, msgsnd, msgctl).
 The sender program continuously asks for a decimal number and sends the converted values to the message queue until "end" is entered.
 The receiver programs display their respective converted values (binary, octal, and hex) until the sender program sends "end".
 The message queue is deleted after the communication ends.
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
-pgsql
-Copy
 
-### How to use this `README.md`:
-
-1. Save the content above as `README.md` in the root directory of your project.
-2. You can view the `README.md` in any markdown viewer, or use it within a Git repository to display project documentation.
-
-Let me know if you need any changes or additional details!
 
 
