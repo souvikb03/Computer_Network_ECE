@@ -4,6 +4,8 @@
 
 ![WhatsApp Image 2025-02-22 at 01 54 06_2912f616](https://github.com/user-attachments/assets/57a2ace6-51c6-4257-988e-ae00cdfeaba4)
 
+# At first we have to run the server section , then the client section . 
+
 # Lab Manual (pdf)
 [EXPERIMENT NO 2.pdf](https://github.com/user-attachments/files/18915079/EXPERIMENT.NO.2.pdf)
 
