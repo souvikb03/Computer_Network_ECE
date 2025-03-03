@@ -1,8 +1,16 @@
 # Outpot
 
-![WhatsApp Image 2025-02-22 at 00 13 06_8b0b2846](https://github.com/user-attachments/assets/d285657a-51ac-437f-97a4-539971a9e748)
+![WhatsApp Image 2025-03-02 at 20 55 47_47bd86d9](https://github.com/user-attachments/assets/04c79445-040d-4688-9d28-3cf3bc07d88b)
 
-![WhatsApp Image 2025-02-22 at 01 54 06_2912f616](https://github.com/user-attachments/assets/57a2ace6-51c6-4257-988e-ae00cdfeaba4)
+![WhatsApp Image 2025-03-02 at 20 54 28_ed01c85e](https://github.com/user-attachments/assets/84c0a9b9-5c3b-4a64-a852-61b0f1e8acbb)
+
+
+![WhatsApp Image 2025-03-02 at 20 54 38_32f5c4b6](https://github.com/user-attachments/assets/bc909dbe-a8a7-4439-8e7c-fcee59c5a1e7)
+
+
+![WhatsApp Image 2025-03-02 at 20 57 29_cbfb9ef6](https://github.com/user-attachments/assets/41aa2cb7-c0c4-4bf9-8986-e5a87cc3551a)
+
+
 
 # At first we have to run the server section , then the client section . 
 
