@@ -1,5 +1,8 @@
 
 # client and server code to handle n numbers of input and perform bit-stuffing on n numbers
+
+![Screenshot (218)](https://github.com/user-attachments/assets/5ef3a559-438c-468f-a1bc-8106a24ecc29)
+
 ### Client Code:
 
 Allow the user to input n numbers.
