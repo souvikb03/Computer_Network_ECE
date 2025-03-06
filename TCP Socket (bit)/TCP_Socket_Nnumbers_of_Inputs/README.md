@@ -111,9 +111,11 @@ Uses realloc to resize the array when needed.
 
 # Differences in Code (Highlighted Lines)
 
-![alt text]({6DA0F14F-A150-49F6-A02E-F2238479A419}.png)
+![{83718AE8-BCE9-4F38-8754-D3D8DBCA31B2}](https://github.com/user-attachments/assets/9fe08e2b-6008-4d2d-82c1-a218b20cfcd6)
 
-![alt text]({D835EDA6-F3F8-4775-86EA-5BA76B6F6498}.png)
+
+![{649EA89E-9423-40D6-97D8-61B56DD70777}](https://github.com/user-attachments/assets/65b7b2e0-6f40-4548-aa41-a218fe6d3c2d)
+
 
 # 
 
