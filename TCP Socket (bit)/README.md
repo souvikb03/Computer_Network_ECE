@@ -1,4 +1,4 @@
-# TCP Socket Programming with Bit Stuffing
+# TCP Socket Programming with Bit Stuffing Single client
 This project demonstrates TCP socket programming in C, combined with bit stuffing, a technique used in data communication to ensure that specific bit patterns (like a flag sequence) do not appear in the data stream. The project consists of a server and a client that communicate over a TCP connection.
 ![Screenshot (213)](https://github.com/user-attachments/assets/3dcc69e9-179a-4df1-a74b-5f9de5e81cde)
 
